@@ -1,0 +1,197 @@
+:root {
+  --pr-color: #5d50c6;
+}
+:root {
+  --pk-color: #f85e9f;
+}
+:root {
+  --cg-color: #ff5722;
+}
+.pink {
+  color: var(--pk-color);
+}
+.orange {
+  color: var(--cg-color);
+}
+.button-primary {
+  width: 4rem;
+  height: 2rem;
+  background-color: rgba(245, 222, 179, 0);
+  border: none;
+}
+.button-secondary {
+  width: 4rem;
+  height: 2rem;
+  background-color: var(--pr-color);
+  color: white;
+  border-radius: 5rem;
+  border: none;
+}
+.navbar-toggler {
+  background-color: var(--pr-color);
+  color: white;
+  border: none;
+  border-radius: 1rem;
+}
+.explore {
+  width: 12rem;
+  height: 2rem;
+  background-color: white;
+  color: var(--pk-color);
+  border: none;
+  border-radius: 5rem;
+}
+.travel {
+  font-size: 3rem;
+  font-weight: 600;
+}
+.travel1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.tp {
+  font-size: 3rem;
+  font-weight: 600;
+  color: var(--pk-color);
+}
+.tp2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--pk-color);
+}
+.imgt {
+  width: 35rem;
+  height: 35rem;
+}
+.button-demo {
+  width: 10rem;
+  height: 3rem;
+  background-color: rgba(245, 222, 179, 0);
+  border-radius: 5rem;
+  border: none;
+}
+.button-start {
+  width: 10rem;
+  height: 3rem;
+  background-color: var(--pr-color);
+  color: white;
+  border-radius: 5rem;
+  border: none;
+}
+.img1 {
+  width: 10rem;
+  height: 1.5rem;
+}
+.img2 {
+  width: 6rem;
+  height: 1.5rem;
+}
+.img3 {
+  width: 8rem;
+  height: 1.5rem;
+}
+.img4 {
+  width: 5rem;
+  height: 1.5rem;
+}
+.img5 {
+  width: 7.5rem;
+  height: 1.5rem;
+}
+.triren {
+  width: 3rem;
+  height: 7rem;
+}
+.word-wrap {
+  word-wrap: break-word;
+}
+.card1 {
+  border: 0.06rem solid black;
+  border-radius: 2rem;
+}
+.top {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.top1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--pk-color);
+}
+.button-right {
+  width: 5rem;
+  height: 5rem;
+  background-color: var(--pr-color);
+  border-radius: 100%;
+  border: none;
+}
+.button-left {
+  width: 5rem;
+  height: 5rem;
+  background-color: rgba(0, 128, 0, 0);
+  border-radius: 100%;
+  border: 0.06rem solid black;
+}
+.bla {
+  width: 20rem;
+  border-radius: 2rem;
+  border: none;
+}
+.ic1 {
+  position: relative;
+  right: 0.7rem;
+  width: 20rem;
+}
+.jdl {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.idr {
+  color: var(--pk-color);
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+.sc {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: var(--cg-color);
+}
+.square {
+  border-radius: 3vw;
+}
+.or {
+  color: var(--cg-color);
+  font-size: 2rem;
+}
+.carousel-control-prev {
+  width: 7vw;
+  height: 7vw;
+  background-color: rgba(0, 128, 0, 0);
+  border-radius: 100%;
+  border: 0.06rem solid black;
+}
+.carousel-control-next {
+  width: 7vw;
+  height: 7vw;
+  background-color: var(--pr-color);
+  border-radius: 100%;
+  border: none;
+}
+.carousel .carousel-indicators button {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 100%;
+  background-color: #f85e9f;
+}
+.button-email {
+  border-radius: 3rem;
+  border: none;
+}
+.button-subs {
+  width: 10rem;
+  height: 4rem;
+  background-color: var(--pr-color);
+  color: white;
+  border-radius: 3rem;
+  border: none;
+}
